@@ -1,0 +1,28 @@
+{
+  "name": "websocet_nodejs",
+  "version": "1.0.0",
+  "description": "Ololololo",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gthrm/websocet_nodejs.git"
+  },
+  "keywords": [
+    "app",
+    "node",
+    "websocet"
+  ],
+  "author": "cdroma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gthrm/websocet_nodejs/issues"
+  },
+  "homepage": "https://github.com/gthrm/websocet_nodejs#readme",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "ws": "^6.0.0"
+  }
+}
