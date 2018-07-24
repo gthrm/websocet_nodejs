@@ -13,5 +13,5 @@ server.on('connection', function(res){
             }
         });
     });
-    res.send('Пишите:');
+    res.send('ХариКришна, епт и ХариРама:');
 });
